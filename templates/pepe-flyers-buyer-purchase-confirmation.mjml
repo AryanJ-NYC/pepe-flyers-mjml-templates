@@ -1,0 +1,98 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Red Hat Display" href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@300;400;500;600;700;800;900&display=swap"></mj-font>
+    <mj-style>
+      a {
+        color: #4299e1;
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      .my-2 {
+        margin-top: 2px;
+        margin-bottom: 2px;
+      }
+
+      #summation-border {
+        border-bottom: 1px solid #555;
+        margin-top: 4px;
+        margin-bottom: 4px
+      }
+
+      .block {
+        display: block;
+      }
+
+      .text-black {
+        color: #000;
+      }
+
+      .italic {
+        font-style: italic
+      }
+
+      .font-bold {
+        font-weight: bold;
+      }
+
+      body {
+        font-family: 'Red Hat Display', 'Arial'
+      }
+    </mj-style>
+
+  </mj-head>
+  <mj-body>
+    <mj-section>
+      <mj-column background-color="#ffffff">
+        <mj-image width="169px" src="https://pepeflyers.com/square-logo.png"></mj-image>
+
+        <mj-divider border-color="#1B8A3D"></mj-divider>
+        <mj-text font-size="16px" color="#000000" font-family="Red Hat Display">
+          Your purchase has confirmed and your Pepe Flyers will begin production. Since they are made to order, please allow 2-3 months to receive them.
+        </mj-text>
+        <mj-text font-size="16px" color="#000000" font-family="Red Hat Display">
+          Pepe Flyers is more than a shoe; it is a collection.
+        </mj-text>
+        <mj-text font-size="16px" color="#000000" font-family="Red Hat Display">
+          The <strong>PEPEFLYERS.V1.0</strong> token will be stored on your kicks to prove authenticity and unlock rewards at IRL events.
+        </mj-text>
+        <mj-text font-size="16px" color="#000000" font-family="Red Hat Display">
+          In the meantime, your <strong>PEPEFLYERS</strong> token will be sent to the Counterparty address submitted with your order. This is your proof of membership card that unlocks benefits when your sneakers aren’t accessible.
+        </mj-text>
+
+        <mj-text font-size="16px" color="#000000" font-family="Red Hat Display">
+          Your 3rd token, <strong>FLYSHILL is ready to be redeemed now:</strong>
+        </mj-text>
+
+        <mj-list>
+          <mj-li font-size="16px" color="#000000" font-family="Red Hat Display">
+            Like & Retweet the pinned tweet on the <a href="https://twitter.com/pepeflyers">@pepeflyers</a> feed
+          </mj-li>
+
+          <mj-li font-size="16px" color="#000000" font-family="Red Hat Display">
+            DM <a href="https://twitter.com/pepeflyers">@pepeflyers</a> the email address you submitted with your purchase and your Counterparty address where your FLYSHILL token should be sent
+          </mj-li>
+
+          <mj-li font-size="16px" color="#000000" font-family="Red Hat Display">
+            You’ll receive FLYSHILL with your PEPEFLYERS token within 5 days
+          </mj-li>
+        </mj-list>
+
+        <mj-text font-size="16px" color="#000000" font-family="Red Hat Display">
+          FLYSHILL tokens are minted with each eligible shill. There will be no primary sales of the token. Details for redeeming your 2nd FLYSHILL token will be revealed when you receive your Pepe Flyers kicks.
+        </mj-text>
+        <mj-text font-size="16px" color="#000000" font-family="Red Hat Display">
+          Check out <a href="https://pepeflyers.com">pepeflyers.com</a> to scope the entire collection, see upcoming events for members-only airdrops, and sign up for updates.
+        </mj-text>
+
+        <mj-text font-size="16px" color="#000000" font-family="Red Hat Display">
+          Until then,</br>
+          FLYE
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
